@@ -7,6 +7,25 @@ This project represents an end-to-end approach for tackling customer churn — a
 - Uncover actionable insights to reduce chrun and boost retention through analytics
 - Communicate findings in a business-centric format for executive stakeholders
 
+## Project Workflow
+1. Data Acquisition & Preprocessing
+   - Imported and cleaned customer datasets featuring behavioiural, transactional, and demographic variables
+   - Addressed missing data, encoded categorical features, and normalized numerical fields
+2. EDA
+   - Used pandas, matplotlib and seaborn in Python for EDA to identify patterns and correlations related to customer churn and to visualize distributions and relationships to guide hypothesis formation and modeling decisions
+3. Feature Engineering
+   - Created new features to capture customer tenure, loyalty indicatoirs, and service usage intensity
+   - Selected top predictors using statistical tests
+4. Predictive Modeling
+   - Employed logistic regression in scikit-learn, and evaluated models with precision, recall, F1-score, and confusion matrices
+5. Interpretability & Inishgt Extraction
+   - Analyzed feature impmortance to reveal primary drivers behind churn
+6. Business Recommendations
+   - Generated tailored recommendations for customer retention based on high-impact features and at-risk segments
+   - Proposed targed marketing strategies for intervention
+7. Visualization & Communication
+   - Built interactive dashboards in Tableau to present key findings and retention opportunities
+
 ## Business Impact
 - Enables organizations to reduce customer loss and maxmize lifetime value
 - Supports targeted intervention campaigns with the ideitification of high-risk segments
