@@ -43,4 +43,4 @@ This project represents an end-to-end approach for tackling customer churn — a
 - Strategic Planning: Leverage predictions for quarterly planning, focusing on improving products and services that matter most to customer loyalty
 
 ## Key Visuals
-
+![dashboard](https://github.com/jordanchow1/customer_churn/blob/main/customer_churn_dashboard.png)
