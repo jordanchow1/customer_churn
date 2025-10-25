@@ -1,18 +1,19 @@
 # Customer Churn Prediction
 
-This project demonstrates an end-to-end workflow for predicting customer churn using Python and machine learning techniques. It covers data preprocessing, exploratory data analysis, feature engineering, model building, and evaluation to generate actionable insights for reducing churn.
-
-## Key Features
-
-- **Data Cleaning & Preprocessing:** Handle missing values, encode categorical variables, scale features, and prepare datasets for modeling.  
-- **Exploratory Data Analysis (EDA):** Visualize patterns and trends in customer behavior to uncover insights.  
-- **Feature Engineering:** Create meaningful features to improve model accuracy and interpretability.  
-- **Modeling:** Implement machine learning models such as Logistic Regression, Random Forest, and Gradient Boosting.  
-- **Evaluation & Interpretation:** Assess model performance using metrics like accuracy, precision, recall, F1-score, and ROC-AUC.  
-- **Actionable Insights:** Identify high-risk churn customer segments and suggest targeted retention strategies.
+This project tackles the critical business problem of customer churn prediction using a blend of machine learning, exploratory analysis, and interactive dashboards. The workflow empowers stakeholders to proactively identify and retain at-risk customers and guide targeted retention strategies.
 
 ## Tools
 
 - **Languages:** Python  
 - **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn  
 - **Techniques:** Classification, Feature Engineering, Data Visualization, Model Evaluation
+
+## Objectives
+- **Predict customer churn** using historical behaviour and demographics
+- **Uncover actionable insights** to reduce churn and boost retention
+- **Communicate findings** with clear dashboards and business-centric recommendations
+
+## Business Impact
+- Equip companies with tools to **reduce customer loss** and maximize lifetime value
+- Guide intervention campaigns with **data-driven targeting** of high-risk segments
+- Translate complex modeling into **simple, actionable recommendations** for leadership
