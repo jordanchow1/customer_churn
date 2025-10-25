@@ -44,3 +44,5 @@ This project represents an end-to-end approach for tackling customer churn — a
 
 ## Key Visuals
 ![dashboard](https://github.com/jordanchow1/customer_churn/blob/main/customer_churn_dashboard.png)
+
+Tableau dashboard: https://public.tableau.com/app/profile/jordan.chow4539/viz/TelcoCustomerChurnAnalysis_17614197061620/Dashboard
