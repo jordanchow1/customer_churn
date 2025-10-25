@@ -41,3 +41,6 @@ This project represents an end-to-end approach for tackling customer churn — a
 - Retention Campaigns: Deploy personalized offers, loyalty programs, and targed communications
 - Resource Allocation: Prioritize investing in customer service and engagement initiatives toward the most the vulnerable segmnets
 - Strategic Planning: Leverage predictions for quarterly planning, focusing on improving products and services that matter most to customer loyalty
+
+## Key Visuals
+
