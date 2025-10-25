@@ -1,4 +1,4 @@
-# Customer Churn Prediction
+# Telco Customer Churn Prediction
 
 This project represents an end-to-end approach for tackling customer churn — a critical business challenge where companies seek to identify and retain customers who are at the highest risk of leaving. By integrating machine learning, statistical analysis, and interactive data visualizations, the project translates raw data into actionable insights, supporting strategic intervention and retention initiatives.
 
